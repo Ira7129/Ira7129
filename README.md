@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oindrita Roy</h1>
-<h3 align="center">A motivated and skilled B.tech student in Computer science and Technology with a solid foundation in software development and data analysis and dedicated to developing innovative solutions. Proficient in various programming languages , including Python , C and Java, with strong background in problem- solving . Skilled in Microsoft Excel and equipped with storng communication skills . Eager to apply technical knowledge and soft skills in a dynamic , growth-oriented environment.</h3>
+<h3 align="center">A motivated and skilled B.tech student in Computer science and Technology with a solid foundation in software development and data analysis and dedicated to developing innovative solutions. Proficient in various programming languages , including Python , C and Java, with strong background in problem- solving and using various frameworks like React JS. & Node JS.I have also made web applications using HTML , CSS, Java Script.  Skilled in Microsoft Excel and equipped with storng communication skills . Eager to apply technical knowledge and soft skills in a dynamic , growth-oriented environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ira7129&label=Profile%20views&color=0e75b6&style=flat" alt="ira7129" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ira7129" alt="ira7129" /></a> </p>
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **Artificial Inteligenc & Mechine Learning using Python**
 
-- 💬 Ask me about **various programming languages , including Python , C and Java**
+- 💬 Ask me about **various programming languages , including Python , C , Java , Node JS. Fundamentals**
 
-- 📫 How to reach me **oindritaroy1882023@gmail. com**
+- 📫 How to reach me **oindritaroy005@gmail.com / oindritaroy1882023@gmail.com**
 
 - ⚡ Fun fact **I am a Dancer**
 
