@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oindrita Roy</h1>
 <h3 align="center">Aspiring Software Engineer and Full-Stack Developer with a passion for building scalable, user-centric web applications and solving real-world problems through technology. Proficient in Python, Java, C, JavaScript, React.js, Node.js, Express.js, SQL, MongoDB, Git, and GitHub, with a strong foundation in Object-Oriented Programming (OOP), Operating Systems, and Computer Organization & Architecture. Experienced in developing responsive front-end interfaces, robust backend systems, authentication, database management, and RESTful APIs. Committed to writing clean, efficient code, continuously expanding technical expertise, and collaborating effectively to create impactful software solutions while growing as a software engineer.
+
+  🚀 Tech Stack
+Languages: Python, Java, C, JavaScript, SQL
+Frontend: HTML, CSS, React.js
+Backend: Node.js, Express.js
+Database: MongoDB, SQL
+Tools: Git, GitHub
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ira7129&label=Profile%20views&color=0e75b6&style=flat" alt="ira7129" /> </p>
