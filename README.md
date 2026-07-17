@@ -3,7 +3,7 @@
 </h3>
 
 <h3>🚀 Tech Stack</h3>
--  Languages: Python, Java, C, JavaScript, SQL
+- Languages: Python, Java, C, JavaScript, SQL
 - Frontend: HTML, CSS, React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB, SQL
