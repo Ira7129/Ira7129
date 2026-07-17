@@ -18,6 +18,11 @@
 - Responsive UI/UX
 - Data Structures & Algorithms
 
+<h3>📚 Core Knowledge</h3>
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Computer Organization & Architecture
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ira7129&label=Profile%20views&color=0e75b6&style=flat" alt="ira7129" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ira7129" alt="ira7129" /></a> </p>
