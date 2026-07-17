@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Software Engineer and Full-Stack Developer with a passion for building scalable, user-centric web applications and solving real-world problems through technology. Proficient in Python, Java, C, JavaScript, React.js, Node.js, Express.js, SQL, MongoDB, Git, and GitHub, with a strong foundation in Object-Oriented Programming (OOP), Operating Systems, and Computer Organization & Architecture. Experienced in developing responsive front-end interfaces, robust backend systems, authentication, database management, and RESTful APIs. Committed to writing clean, efficient code, continuously expanding technical expertise, and collaborating effectively to create impactful software solutions while growing as a software engineer.
 </h3>
 
-<h3>- 🚀 Tech Stack</h3>
-- 
+<h3>🚀 Tech Stack</h3>
 - Languages: Python, Java, C, JavaScript, SQL
 - Frontend: HTML, CSS, React.js
 - Backend: Node.js, Express.js
