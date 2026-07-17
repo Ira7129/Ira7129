@@ -19,6 +19,7 @@
 - Data Structures & Algorithms
 
 <h3>📚 Core Knowledge</h3>
+
 - Object-Oriented Programming (OOP)
 - Operating Systems
 - Computer Organization & Architecture
