@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oindrita Roy</h1>
-<h3 align="center">A motivated and skilled B.tech student in Computer science and Technology with a solid foundation in software development and data analysis and dedicated to developing innovative solutions. Proficient in various programming languages , including Python , C and Java, with strong background in problem- solving and using various frameworks like React JS. & Node JS.I have also made web applications using HTML , CSS, Java Script.  Skilled in Microsoft Excel and equipped with storng communication skills . Eager to apply technical knowledge and soft skills in a dynamic , growth-oriented environment.</h3>
+<h3 align="center">Aspiring Software Engineer and Full-Stack Developer with a passion for building scalable, user-centric web applications and solving real-world problems through technology. Proficient in Python, Java, C, JavaScript, React.js, Node.js, Express.js, SQL, MongoDB, Git, and GitHub, with a strong foundation in Object-Oriented Programming (OOP), Operating Systems, and Computer Organization & Architecture. Experienced in developing responsive front-end interfaces, robust backend systems, authentication, database management, and RESTful APIs. Committed to writing clean, efficient code, continuously expanding technical expertise, and collaborating effectively to create impactful software solutions while growing as a software engineer.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ira7129&label=Profile%20views&color=0e75b6&style=flat" alt="ira7129" /> </p>
 
